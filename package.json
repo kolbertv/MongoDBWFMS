@@ -1,0 +1,26 @@
+{
+  "name": "mongodbwfms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolbertv/MongoDBWFMS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolbertv/MongoDBWFMS/issues"
+  },
+  "homepage": "https://github.com/kolbertv/MongoDBWFMS#readme",
+  "dependencies": {
+    "mongodb": "^3.1.6",
+    "mongoose": "^5.2.15"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
